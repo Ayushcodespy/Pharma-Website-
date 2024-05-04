@@ -1,5 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
+/* body {
+    background-image: url('image/img.pharm.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  } */
+
 .logo img{
     width:50px;
     border-radius: 50%;
@@ -40,7 +47,8 @@ body{
     margin: -20px 0 50px;
     justify-content: center;
     min-height: 100vh;
-    background-image: url(d1.jpg);
+    background-image: url('image/wall.jpg');
+    opacity: 4s;
     background-position: center;
     background-size: cover;
 }
